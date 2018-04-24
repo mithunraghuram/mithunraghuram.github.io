@@ -1,11 +1,10 @@
 [{
 		"action": "talk",
 		"text": "Welcome to Nexmo's Voice API. ",
-		"voiceName": "Amy",
-	        "bargeIn": true
+		"voiceName": "Amy"
 	},
 	{
 		"action": "stream",
-		"streamUrl": ["hrrps://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3"]
+		"streamUrl": ["https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3"]
 	}
 ]
