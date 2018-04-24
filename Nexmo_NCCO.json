@@ -2,7 +2,7 @@
 		"action": "talk",
 		"text": "Welcome to Nexmo's Voice API. ",
 		"voiceName": "Amy",
-	        "bargeIn": false
+	        "bargeIn": true
 	},
 	{
 		"action": "stream",
