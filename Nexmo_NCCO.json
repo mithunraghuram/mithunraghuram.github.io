@@ -1,7 +1,8 @@
 [{
 		"action": "talk",
 		"text": "Welcome to Nexmo's Voice API. ",
-		"voiceName": "Amy"
+		"voiceName": "Amy",
+	        "bargeIn": false
 	},
 	{
 		"action": "stream",
