@@ -6,6 +6,6 @@
 	},
 	{
 		"action": "stream",
-		"streamUrl": ["www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3"]
+		"streamUrl": ["hrrps://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3"]
 	}
 ]
